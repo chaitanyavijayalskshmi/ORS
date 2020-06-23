@@ -65,8 +65,9 @@ public class SmoketestCases extends BaseClass{
 		home.navLoginpage();;
 		login.loginApp("admin","admin@123");
 		dashBoard.navMainCategories();
-		editMainCategory.EditMainCategoryPage("ethane", "F");
-		;
+		editMainCategory.selectEditicon("dimethyl");
+		editMainCategory.editMainCategoryPage("45dimethyl", "F");
+		
 				
 	}
 

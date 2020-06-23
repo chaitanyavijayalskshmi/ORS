@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="156189" started-at="2020-06-22T15:51:37Z" finished-at="2020-06-22T15:54:13Z">
+  <suite name="Default suite" duration-ms="66863" started-at="2020-06-23T04:22:40Z" finished-at="2020-06-23T04:23:47Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="156189" started-at="2020-06-22T15:51:37Z" finished-at="2020-06-22T15:54:13Z">
+    <test name="Default test" duration-ms="66863" started-at="2020-06-23T04:22:40Z" finished-at="2020-06-23T04:23:47Z">
       <class name="com.dyt.ors.SmokeTC.SmoketestCases">
-        <test-method status="PASS" signature="setupReport()[pri:0, instance:com.dyt.ors.SmokeTC.SmoketestCases@57baeedf]" name="setupReport" is-config="true" duration-ms="209" started-at="2020-06-22T15:51:36Z" finished-at="2020-06-22T15:51:37Z">
+        <test-method status="PASS" signature="setupReport()[pri:0, instance:com.dyt.ors.SmokeTC.SmoketestCases@57baeedf]" name="setupReport" is-config="true" duration-ms="202" started-at="2020-06-23T04:22:39Z" finished-at="2020-06-23T04:22:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupReport -->
-        <test-method status="PASS" signature="launchBrowser(java.lang.reflect.Method)[pri:0, instance:com.dyt.ors.SmokeTC.SmoketestCases@57baeedf]" name="launchBrowser" is-config="true" duration-ms="46939" started-at="2020-06-22T15:51:37Z" finished-at="2020-06-22T15:52:24Z">
+        <test-method status="PASS" signature="launchBrowser(java.lang.reflect.Method)[pri:0, instance:com.dyt.ors.SmokeTC.SmoketestCases@57baeedf]" name="launchBrowser" is-config="true" duration-ms="26563" started-at="2020-06-23T04:22:40Z" finished-at="2020-06-23T04:23:06Z">
           <params>
             <param index="0">
               <value>
@@ -22,15 +22,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method status="PASS" signature="TC004_editMainCategory()[pri:0, instance:com.dyt.ors.SmokeTC.SmoketestCases@57baeedf]" name="TC004_editMainCategory" duration-ms="105606" started-at="2020-06-22T15:52:24Z" finished-at="2020-06-22T15:54:09Z">
+        <test-method status="PASS" signature="TC004_editMainCategory()[pri:0, instance:com.dyt.ors.SmokeTC.SmoketestCases@57baeedf]" name="TC004_editMainCategory" duration-ms="39123" started-at="2020-06-23T04:23:06Z" finished-at="2020-06-23T04:23:45Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC004_editMainCategory -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.dyt.ors.SmokeTC.SmoketestCases@57baeedf]" name="closeBrowser" is-config="true" duration-ms="3616" started-at="2020-06-22T15:54:09Z" finished-at="2020-06-22T15:54:13Z">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.dyt.ors.SmokeTC.SmoketestCases@57baeedf]" name="closeBrowser" is-config="true" duration-ms="1155" started-at="2020-06-23T04:23:45Z" finished-at="2020-06-23T04:23:47Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method status="PASS" signature="flushReportAndOpen()[pri:0, instance:com.dyt.ors.SmokeTC.SmoketestCases@57baeedf]" name="flushReportAndOpen" is-config="true" duration-ms="30517" started-at="2020-06-22T15:54:14Z" finished-at="2020-06-22T15:54:45Z">
+        <test-method status="PASS" signature="flushReportAndOpen()[pri:0, instance:com.dyt.ors.SmokeTC.SmoketestCases@57baeedf]" name="flushReportAndOpen" is-config="true" duration-ms="20130" started-at="2020-06-23T04:23:47Z" finished-at="2020-06-23T04:24:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- flushReportAndOpen -->
